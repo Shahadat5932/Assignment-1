@@ -1,0 +1,89 @@
+body{
+    font-family: 'PT Serif', serif;
+    margin: 0;
+    padding: 0;
+}
+.sec-1{
+    display: flex;
+
+}
+
+h1{
+    font-size: 50px;
+}
+.orangered-color{
+    color: orangered;
+}
+section{
+    display: flex;
+    margin-bottom: 150px;;
+}
+.sec-1-left{
+    width: 50%;
+    padding: 10px;
+    margin-top: 150px;
+}
+.sec-1-right{
+    width: 50%;
+}
+.sec-1-right img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 30px;
+    color: palegoldenrod;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(7.png);
+    background-repeat: no-repeat;
+    display: flex;
+
+}
+.sec-2-left{
+    width: 50%;
+}
+.sec-2-right{
+    width: 50%;
+    margin-top: 50px;
+}
+.sec-2-right p{
+    margin-right: 100px;
+}
+.sec-3{
+    display: inline;
+
+}
+.sec-3 h1{
+    text-align: center;
+    color: peru;
+}
+.sec-3 h5{
+    text-align: center;
+}
+.box{
+    display: flex;
+}
+.box-1{
+    margin: 30px;
+    padding: 20px;
+    border: 1px solid white;
+    border-radius: 15px;
+    box-shadow: 1px 0px 20px 5px grey;;
+}
+.box-1 img{
+    width: 100%;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.footer span{
+    color: orange;
+}
